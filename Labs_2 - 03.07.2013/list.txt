@@ -1,0 +1,555 @@
+
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+0 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 
+result output values
+1 ^ 0 ^ 0 ^ 0 ^ @ ^ 

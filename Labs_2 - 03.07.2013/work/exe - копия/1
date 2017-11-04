@@ -1,0 +1,8 @@
+
+C:\Users\HP\Documents\НГУ\ДИПЛОМ\LABS\work\exe - копия>r2py.exe a 
+
+ START SYNT.
+%RCSL-1 -ERRSW, Первое слово должно быть словом Прогр "╧ЁюуЁ". В строке номер 1.
+%RCSL-13-FATERR, Неожиданный конец файла. В строке номер 30.
+%RCSL-I-SUMMARY, Completed with 2 error(s).
+%RCSL-I-NC, No C file produced.
